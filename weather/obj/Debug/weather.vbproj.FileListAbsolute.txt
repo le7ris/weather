@@ -1,0 +1,13 @@
+E:\user\Desktop\טובי\weather\weather\bin\weather.dll.config
+E:\user\Desktop\טובי\weather\weather\bin\weather.dll
+E:\user\Desktop\טובי\weather\weather\bin\weather.pdb
+E:\user\Desktop\טובי\weather\weather\bin\weather.xml
+E:\user\Desktop\טובי\weather\weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\user\Desktop\טובי\weather\weather\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.vbprojResolveAssemblyReference.cache
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.Resources.resources
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.vbproj.GenerateResource.Cache
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.vbproj.CoreCompileInputs.cache
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.dll
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.xml
+E:\user\Desktop\טובי\weather\weather\obj\Debug\weather.pdb
